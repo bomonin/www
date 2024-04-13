@@ -18,9 +18,9 @@ _Simple & Smart Telecom Service Provider_
 _MLOps As Service_  
 [https://www.tensorhub.ru/](https://www.tensorhub.ru/)
 
-* __NeuraLinker__  
-_Обучение эффективному применению ИИ в повседневной жизни_  
-[https://www.neuralinker.ru/](https://www.neuralinker.ru/)
+* __HACKER.study__  
+_Быстрое обучение современным методам повышения эффективности_  
+[https://www.hacker.study/](https://www.hacker.study/)
 
 * __Saturday.RUN__  
 _Спортивное сообщество_  
