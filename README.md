@@ -15,7 +15,7 @@ _Simple & Smart Telecom Service Provider_
 [https://www.call4all.tech/](https://www.call4all.tech/)
 
 * __TensorHub__  
-_MLOps As Service_  
+_MLOps & AutoML Service Platform_  
 [https://www.tensorhub.ru/](https://www.tensorhub.ru/)
 
 * __HACKER.study__  
